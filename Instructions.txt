@@ -1,0 +1,13 @@
+Instructions
+
+
+1. Download and install node.js and git on your system
+2. Open git bash as an administrator in an empty directory
+3. Run npm install electron -g on git bash
+4. Run npm install create-electron-app -g on bash
+5. Run create-electron-app GeniusPDF
+6. Copy the source files provided to you, to the src folder present in the GeniusPDF app folder
+7. in package.json change "main": "src/index.js" to "main": "src/main.js"
+8. Create a folder named extraResources and place the config.json file provided inside the folder.
+9. Run npm start to see if it works properly
+10. Run npm run make to create the executable directory which would be in the out/ folder.

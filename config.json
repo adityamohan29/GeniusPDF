@@ -1,0 +1,4 @@
+{
+  "LineMatcher": [ "\"",  "means" ],
+  "TermExtractor": "[^\"]+"
+}
