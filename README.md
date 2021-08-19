@@ -1,7 +1,7 @@
 # GeniusPDF
 A PDF viewer with local word look-up functionality.
 
-A freelance project I took part in that renders a PDF with a special functionality. Annotations appear in the side bar with the definition of a word occurring anywhere in the PDF. The word to be looked up should preceeded or followed by certain keywords atleast once in the PDF. These keywords are matched via a regular expression provided by the user.
+A freelance project I took part in that renders a PDF with a special functionality - a word when clicked prompts annotations in the sidebar with the definition of the word provied the word is defined somewhere in the PDF. The definition of the word and the word itself are extracted using a regular expression provided by the user. 
 
 ## Functionalities:
 
