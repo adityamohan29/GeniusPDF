@@ -12,7 +12,7 @@ A freelance project I took part in that renders a PDF with a special functionali
 5. Selectable Text
 6. Search Function
 
-# Instructions 
+## Instructions 
 
 1. Download and install node.js and git on your system
 2. Open git bash as an administrator in an empty directory
