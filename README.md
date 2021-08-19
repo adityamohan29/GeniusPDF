@@ -3,7 +3,7 @@ A PDF viewer with a local word look-up.
 
 A freelance project I took part in that renders a PDF with a special functionality. Annotations appear in the side bar with the definition of a word occurring anywhere in the PDF. The word to be looked up should preceeded or followed by certain keywords atleast once in the PDF. These keywords are matched via a regular expression provided by the user.
 
-## Functionalities
+## Functionalities:
 
 1. PDF Rendering
 2. Local Word Lookup
@@ -12,7 +12,7 @@ A freelance project I took part in that renders a PDF with a special functionali
 5. Selectable Text
 6. Search Function
 
-## Instructions 
+## Instructions: 
 
 1. Download and install node.js and git on your system
 2. Open git bash as an administrator in an empty directory
